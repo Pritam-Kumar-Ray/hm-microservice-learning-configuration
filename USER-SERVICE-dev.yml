@@ -1,6 +1,2 @@
-services:
-  urls:
-    rating-service: http://RATING-SERVICE/rating-service
-    hotel-service: http://HOTEL-SERVICE/hotel-service
-    # Type is added for only dev profile
-    type: dev
+app:
+  description: This is userservice development.
