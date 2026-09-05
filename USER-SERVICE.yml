@@ -3,4 +3,4 @@ server:
 
 
 app:
-  description: This is userservice default.
+  description: This is userservice default with refresh scope.
